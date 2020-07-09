@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_layout">18dp</dimen>
+    <dimen name="margin_layout_large">180dp</dimen>
+    <dimen name="height">100dp</dimen>
+    <dimen name="width">100dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+</resources>
